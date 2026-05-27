@@ -128,6 +128,13 @@ export function makeCliProgram(): Command {
 
       if (!hasSpecificFilter || options.summary) {
         displayTerminalReport(summaryReport);
+        
+        // Print Performance Benchmark details
+        console.log(`\n${logger.bold('⚡ PERFORMANCE BENCHMARK')}`);
+        console.log(`  - Total Time:        ${logger.highlight((totalTimeMs / 1000).toFixed(2) + 's')}`);
+        console.log(`  - Throughput:        ${logger.highlight(Math.round(lineCount / (totalTimeMs / 1000)).toLocaleString() + ' lines/sec')}`);
+        console.log(`  - Mode:              ${logger.highlight('Streaming (low memory usage)')}`);
+        console.log(logger.bold('\nReport Ready!'));
       } else {
         if (options.errors) {
           console.log(`\n${logger.bold('Errors Summary:')}`);

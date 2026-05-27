@@ -1,0 +1,203 @@
+Metric Category,Metric Detail,Value
+General,Total Request Lines,10161
+General,Valid Requests,9480
+General,Malformed Lines,681
+General,Average Response Time (ms),291.80
+General,Success Count,2589
+General,Error Count,2637
+Status Breakdown,HTTP 200,1545
+Status Breakdown,HTTP 201,521
+Status Breakdown,HTTP 304,523
+Status Breakdown,HTTP 400,539
+Status Breakdown,HTTP 401,498
+Status Breakdown,HTTP 403,531
+Status Breakdown,HTTP 404,540
+Status Breakdown,HTTP 500,529
+Slow Endpoint,#1 [GET] /api/checkout,609ms
+Slow Endpoint,#2 [PUT] /api/checkout,609ms
+Slow Endpoint,#3 [GET] /api/auth/login,609ms
+Slow Endpoint,#4 [POST] /api/auth/login,609ms
+Slow Endpoint,#5 [PATCH] /api/products,609ms
+Slow Endpoint,#6 [DELETE] /api/users,608ms
+Slow Endpoint,#7 [GET] /api/products,608ms
+Slow Endpoint,#8 [DELETE] /api/auth/login,608ms
+Slow Endpoint,#9 [PATCH] /static/css/main.css,608ms
+Slow Endpoint,#10 [DELETE] /index.html,608ms
+Top IP,#1 192.168.1.42,1121
+Top IP,#2 1.1.1.1,1111
+Top IP,#3 172.16.254.1,1107
+Top IP,#4 10.0.0.8,1107
+Top IP,#5 8.8.8.8,1062
+Top IP,#6 18:15:59,1
+Top IP,#7 18:16:01,1
+Top IP,#8 18:16:03,1
+Top IP,#9 13:16:07,1
+Top IP,#10 18:16:09,1
+Error Spike,2026-05-27T13:19,23
+Error Spike,2026-05-27T14:18,23
+Error Spike,2026-05-27T14:23,22
+Error Spike,2026-05-27T13:37,21
+Error Spike,2026-05-27T13:50,21
+Error Spike,2026-05-27T13:52,21
+Error Spike,2026-05-27T15:04,21
+Error Spike,2026-05-27T15:06,21
+Error Spike,2026-05-27T13:35,20
+Error Spike,2026-05-27T14:02,20
+Error Spike,2026-05-27T14:13,20
+Error Spike,2026-05-27T14:20,20
+Error Spike,2026-05-27T14:42,20
+Error Spike,2026-05-27T14:56,20
+Error Spike,2026-05-27T15:12,20
+Error Spike,2026-05-27T13:23,19
+Error Spike,2026-05-27T13:16,18
+Error Spike,2026-05-27T13:32,18
+Error Spike,2026-05-27T13:47,18
+Error Spike,2026-05-27T13:54,18
+Error Spike,2026-05-27T14:00,18
+Error Spike,2026-05-27T14:08,18
+Error Spike,2026-05-27T14:19,18
+Error Spike,2026-05-27T14:21,18
+Error Spike,2026-05-27T14:33,18
+Error Spike,2026-05-27T14:40,18
+Error Spike,2026-05-27T14:47,18
+Error Spike,2026-05-27T14:53,18
+Error Spike,2026-05-27T15:18,18
+Error Spike,2026-05-27T15:20,18
+Error Spike,2026-05-27T15:36,18
+Error Spike,2026-05-27T15:38,18
+Error Spike,2026-05-27T13:20,17
+Error Spike,2026-05-27T13:29,17
+Error Spike,2026-05-27T13:33,17
+Error Spike,2026-05-27T13:45,17
+Error Spike,2026-05-27T14:06,17
+Error Spike,2026-05-27T14:07,17
+Error Spike,2026-05-27T14:15,17
+Error Spike,2026-05-27T14:45,17
+Error Spike,2026-05-27T14:46,17
+Error Spike,2026-05-27T14:49,17
+Error Spike,2026-05-27T14:55,17
+Error Spike,2026-05-27T15:09,17
+Error Spike,2026-05-27T15:23,17
+Error Spike,2026-05-27T15:26,17
+Error Spike,2026-05-27T15:29,17
+Error Spike,2026-05-27T15:43,17
+Error Spike,2026-05-27T15:44,17
+Error Spike,2026-05-27T13:39,16
+Error Spike,2026-05-27T13:42,16
+Error Spike,2026-05-27T13:53,16
+Error Spike,2026-05-27T13:55,16
+Error Spike,2026-05-27T13:58,16
+Error Spike,2026-05-27T13:59,16
+Error Spike,2026-05-27T14:01,16
+Error Spike,2026-05-27T14:28,16
+Error Spike,2026-05-27T14:36,16
+Error Spike,2026-05-27T14:43,16
+Error Spike,2026-05-27T15:00,16
+Error Spike,2026-05-27T15:01,16
+Error Spike,2026-05-27T15:02,16
+Error Spike,2026-05-27T15:08,16
+Error Spike,2026-05-27T15:47,16
+Error Spike,2026-05-27T15:50,16
+Error Spike,2026-05-27T15:57,16
+Error Spike,2026-05-27T13:22,15
+Error Spike,2026-05-27T13:28,15
+Error Spike,2026-05-27T13:38,15
+Error Spike,2026-05-27T13:40,15
+Error Spike,2026-05-27T13:48,15
+Error Spike,2026-05-27T14:04,15
+Error Spike,2026-05-27T14:10,15
+Error Spike,2026-05-27T14:14,15
+Error Spike,2026-05-27T14:16,15
+Error Spike,2026-05-27T14:35,15
+Error Spike,2026-05-27T14:44,15
+Error Spike,2026-05-27T14:59,15
+Error Spike,2026-05-27T15:03,15
+Error Spike,2026-05-27T15:05,15
+Error Spike,2026-05-27T15:16,15
+Error Spike,2026-05-27T15:22,15
+Error Spike,2026-05-27T15:31,15
+Error Spike,2026-05-27T15:32,15
+Error Spike,2026-05-27T15:34,15
+Error Spike,2026-05-27T15:54,15
+Error Spike,2026-05-27T16:00,15
+Error Spike,2026-05-27T16:01,15
+Error Spike,2026-05-27T13:18,14
+Error Spike,2026-05-27T13:27,14
+Error Spike,2026-05-27T13:34,14
+Error Spike,2026-05-27T13:46,14
+Error Spike,2026-05-27T14:27,14
+Error Spike,2026-05-27T14:30,14
+Error Spike,2026-05-27T14:41,14
+Error Spike,2026-05-27T14:50,14
+Error Spike,2026-05-27T14:51,14
+Error Spike,2026-05-27T14:58,14
+Error Spike,2026-05-27T15:11,14
+Error Spike,2026-05-27T15:25,14
+Error Spike,2026-05-27T15:30,14
+Error Spike,2026-05-27T15:33,14
+Error Spike,2026-05-27T15:37,14
+Error Spike,2026-05-27T15:39,14
+Error Spike,2026-05-27T15:41,14
+Error Spike,2026-05-27T15:42,14
+Error Spike,2026-05-27T15:52,14
+Error Spike,2026-05-27T15:53,14
+Error Spike,2026-05-27T15:56,14
+Error Spike,2026-05-27T15:58,14
+Error Spike,2026-05-27T13:25,13
+Error Spike,2026-05-27T13:31,13
+Error Spike,2026-05-27T13:36,13
+Error Spike,2026-05-27T13:51,13
+Error Spike,2026-05-27T13:56,13
+Error Spike,2026-05-27T14:03,13
+Error Spike,2026-05-27T14:09,13
+Error Spike,2026-05-27T14:12,13
+Error Spike,2026-05-27T14:31,13
+Error Spike,2026-05-27T14:37,13
+Error Spike,2026-05-27T14:39,13
+Error Spike,2026-05-27T14:48,13
+Error Spike,2026-05-27T14:57,13
+Error Spike,2026-05-27T15:15,13
+Error Spike,2026-05-27T15:19,13
+Error Spike,2026-05-27T15:45,13
+Error Spike,2026-05-27T15:49,13
+Error Spike,2026-05-27T13:26,12
+Error Spike,2026-05-27T13:44,12
+Error Spike,2026-05-27T14:29,12
+Error Spike,2026-05-27T14:52,12
+Error Spike,2026-05-27T14:54,12
+Error Spike,2026-05-27T15:10,12
+Error Spike,2026-05-27T15:13,12
+Error Spike,2026-05-27T15:21,12
+Error Spike,2026-05-27T15:55,12
+Error Spike,2026-05-27T13:41,11
+Error Spike,2026-05-27T14:11,11
+Error Spike,2026-05-27T14:25,11
+Error Spike,2026-05-27T14:26,11
+Error Spike,2026-05-27T14:34,11
+Error Spike,2026-05-27T15:14,11
+Error Spike,2026-05-27T15:24,11
+Error Spike,2026-05-27T15:28,11
+Error Spike,2026-05-27T15:35,11
+Error Spike,2026-05-27T15:40,11
+Error Spike,2026-05-27T15:46,11
+Error Spike,2026-05-27T13:57,10
+Error Spike,2026-05-27T14:17,10
+Error Spike,2026-05-27T15:07,10
+Error Spike,2026-05-27T15:51,10
+Error Spike,2026-05-27T14:24,9
+Error Spike,2026-05-27T14:38,9
+Error Spike,2026-05-27T15:27,9
+Error Spike,2026-05-27T15:48,9
+Error Spike,2026-05-27T15:59,9
+Error Spike,2026-05-27T13:17,8
+Error Spike,2026-05-27T13:30,8
+Error Spike,2026-05-27T14:05,8
+Error Spike,2026-05-27T14:22,8
+Error Spike,2026-05-27T14:32,8
+Error Spike,2026-05-27T15:17,8
+Error Spike,2026-05-27T13:21,7
+Error Spike,2026-05-27T13:43,7
+Error Spike,2026-05-27T16:02,7
+Error Spike,2026-05-27T13:24,6
+Error Spike,2026-05-27T13:49,5
+Error Spike,2026-05-27T10:25,5
